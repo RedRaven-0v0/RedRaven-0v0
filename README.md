@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">🤖 Hey, I'm Léo Chiche</h1>
+<h3 align="center">Always eager for knowledge !</h3>
 
-<!--
-**RedRaven-0v0/RedRaven-0v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/UOpdmwKA7la0g/giphy.gif" 
+       width="560" 
+       alt="robot meme">
+</p>
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 A curious student currently studying at **42**, passionate about **technology**, **innovation**, and **creative coding**.
+⚙️ I started my journey in **embedded systems and robotics**, working with **C**,**C++** and **VHDL/Verilog**.
+🎮 I'm also interested in **game development**, **cybersecurity**, and exploring all kinds of **programming languages** and their applications.
+
+---
+
+### 💻 What I Love Working On
+
+- 🦾 **Embedded systems**
+- 🎮 **Game development**
+- 🔐 **Low-level programming**
+
+---
+
+### 🌱 Currently Exploring
+
+- Advanced **C and system programming** at **42**  
+- Software design, optimization, and clean code  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoChiche&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoChiche&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ <em>“Always learning, always building.”</em>
+</p>
