@@ -2,9 +2,7 @@
 <h3 align="center">Always eager for knowledge !</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UOpdmwKA7la0g/giphy.gif" 
-       width="560" 
-       alt="robot meme">
+  <img src="assets/robot.gif" width="560" alt="robot meme">
 </p>
 ---
 
@@ -34,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoChiche&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoChiche&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RedRaven-0v0&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedRaven-0v0&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
