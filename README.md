@@ -28,7 +28,7 @@
 - Software design, optimization, and clean code  
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 ---
-
+-->
 <p align="center">
   ⭐️ <em>“Always learning, always building.”</em>
 </p>
