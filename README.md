@@ -2,7 +2,7 @@
 <h3 align="center">Always eager for knowledge !</h3>
 
 <p align="center">
-  <img src="assets/robot.gif" width="560" alt="robot meme">
+  <img src="assets/robot-meme.gif" width="560" alt="robot meme">
 </p>
 ---
 
